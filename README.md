@@ -4,7 +4,7 @@ Founder-engineer from Prague. Coding since 14, today building **software factori
 
 ### Now
 
-- **[Orbit](https://orbitpeople.ai)** · co-founder, CTO. The orchestration layer for people operations: sourcing, enrichment, evaluation, outreach and scheduling, synced back to the ATS. Public [SDK](https://www.npmjs.com/package/@orbitpeople/sdk) and [MCP server](https://www.npmjs.com/package/@orbitpeople/mcp).
+- **[Upskill](https://www.connectupskill.com)** · co-founder, CTO. Helping students and fresh graduates land their first internship.
 - **[finshape](https://finshape.com)** · building AI software factories: the layer that lets teams build banking products with fleets of AI agents.
 
 ### What I bring
@@ -31,7 +31,7 @@ An MCP server that gives LLMs your Todoist.
 
 ### How I got here
 
-**Orbit** 2026 · **finshape** 2024 · **Upskill** 2023, co-founder, CTO · **strafos, EPAM, AlgOps, 4finance** 2019 to 2023 · **Daytrip** 2015 to 2019, co-founder, CTO at 19 · **First lines** 2010 to 2015
+**finshape** 2024 · **Upskill** 2023, co-founder, CTO · **strafos, EPAM, AlgOps, 4finance** 2019 to 2023 · **Daytrip** 2015 to 2019, co-founder, CTO at 19 · **First lines** 2010 to 2015
 
 The full story, with the teams and the numbers: **[petrbrabec.cz](https://petrbrabec.cz)**
 
